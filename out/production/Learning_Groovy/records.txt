@@ -1,0 +1,6 @@
+{
+    "name": "Bruce",
+    "age": 42,
+    "city": "Gotham",
+    "hobby": "Discouraging criminals"
+}
